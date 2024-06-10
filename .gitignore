@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.pytest_cache/
+landmark_images/
+checkpoints2/
+mean_and_std.pt
